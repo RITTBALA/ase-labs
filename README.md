@@ -1,3 +1,5 @@
+[![.github/workflows/ci.yml](https://github.com/RITTBALA/ase-labs/actions/workflows/ci.yml/badge.svg?branch=practice-2)](https://github.com/RITTBALA/ase-labs/actions/workflows/ci.yml)
+
 # Estimating Text Similarity by Shingling
 
 **Authors:** Ármin Zavada, Kristóf Marussy
